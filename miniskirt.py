@@ -1,7 +1,6 @@
 import typer
 from typing import Dict, Literal
 import requests
-import logging as logger
 from rich.console import Console
 
 wear_a_mini = typer.Typer()
@@ -11,7 +10,6 @@ units_dict = {
     'metric': 'Celcius',
     'imperial': 'Fahrenheit'
 }
-
 
 def get_temperature(location: str,
                     units: Literal['metric',
@@ -48,9 +46,8 @@ def get_temperature(location: str,
 
     return weather_data
 
-
-@wear_a_mini.command()
-def should_i(
+@wear_a_mini.command(epilog="Made with <3 for miniskirts")
+def miniskirt(
     location: str,
     units: str = typer.Option(
         "metric",
@@ -84,3 +81,4 @@ def should_i(
 
 if __name__ == "__main__":
     wear_a_mini()
+    

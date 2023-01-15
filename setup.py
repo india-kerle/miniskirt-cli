@@ -26,6 +26,6 @@ setup(
     ],
     entry_points = '''
         [console_scripts]
-        miniskirt=miniskirt:cli
+        miniskirt=miniskirt:wear_a_mini
     '''
 )
