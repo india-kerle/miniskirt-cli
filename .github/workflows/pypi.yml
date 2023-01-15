@@ -3,7 +3,6 @@ on:
   push:
     tags:
       - "v*"
-
 jobs:
   build-n-publish:
     name: Build and publish to PyPI
