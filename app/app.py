@@ -41,7 +41,6 @@ def get_temperature(location:str, units: Literal['metric', 'imperial'] = 'metric
     
     return weather_data
 
-
 @wear_a_mini.command()
 def should_i(location: str,
             units: str = typer.Option("metric", help="Unit of temperature measurement. Defaults to 'metric'.")):
