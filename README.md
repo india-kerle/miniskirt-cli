@@ -18,4 +18,6 @@ You can pass a `LOCATION` string and pass an optional temperature unit argument 
 miniskirt "LOCATION" --units imperial
 ```
 
-For example,
+**For example:**
+
+![final_mini](https://user-images.githubusercontent.com/46863334/212556653-7d0780d7-0402-4cc0-b0fb-a4868545e38b.gif)
