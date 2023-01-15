@@ -7,7 +7,7 @@
 ### Installing
 To install this CLI tool you can run the below command
 ```
-pip install mini-skirt
+pip install miniskirt-cli
 ```
 
 Alternatively, you clone this repo and then run this command from within the repository folder
