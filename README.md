@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=india-kerle.mini_skirt_cli)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=india-kerle.miniskirt-cli)
 
 # Mini Skirt CLI 💅💕
 
