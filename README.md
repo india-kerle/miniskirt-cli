@@ -1,5 +1,4 @@
-# miniskirt CLI 💅💕 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=india-kerle.miniskirt-cli) 
-
+# miniskirt CLI 💅💕 
 
 
 A CLI to tell you if you should wear a miniskirt or not.
